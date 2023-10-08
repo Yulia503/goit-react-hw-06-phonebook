@@ -21,3 +21,12 @@ export const DeleteBtn = styled.button`
     background-color: #404BBF;
   }
 `;
+
+export const ContactsText = styled.p`
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: -0.18px;
+  text-transform: uppercase;
+`;
